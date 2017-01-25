@@ -2,9 +2,7 @@ This program is designed to work with the Ammonia Sensing Platform. Much of the 
 
 ---------------------------
 
-written by, Mike Sanzari
-
-for help, please contact mjs695@rutgers.edu with questions or concerns
+Stitched together by, Mike Sanzari
 
 ---------------------------
 
